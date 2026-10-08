@@ -55,6 +55,6 @@ Cisco Umbrella  |  Hadoop  |  Splunk
 
 ## 🔗 Связанные проекты
 
-- [Мини-SIEM на ELK](../diploma-siem-education)
+- [Мини-SIEM на ELK](https://github.com/Arslan504-db/diploma-siem-education)
 - [PKI на OpenSSL](../pki-openssl-lab)
 - [Пентест-лаборатория](../pentest-lab-report)
